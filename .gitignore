@@ -164,3 +164,4 @@ cython_debug/
 # Other files related to project
 Dynamic Graph CNN rezumat.txt
 activity_log.txt
+data/
