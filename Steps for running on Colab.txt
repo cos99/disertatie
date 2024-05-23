@@ -1,0 +1,9 @@
+0. Upload data_slim.rar file to drive
+1. Connect to drive
+2. Unzip data_slim.rar to Colab session
+3. Change name of directory to data
+4. Comment     
+    # download_S3DIS()
+    # prepare_test_data_semseg()
+from function load_data_semseg()
+5. Install plyfile (!pip install plyfile)
